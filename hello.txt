@@ -4,3 +4,4 @@ Learning Git step by step
 new line
 This line is from feature branch
 
+This line is from branch B
